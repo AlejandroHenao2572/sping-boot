@@ -3,6 +3,7 @@ package com.alejocode;
 import java.util.Objects;
 
 public class SoftwareEngineer {
+
     private Integer id;
     private String name;
     private String techStack;
